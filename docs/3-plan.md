@@ -2,17 +2,18 @@
 title: Plan
 outline: deep
 ---
+
 ### Competencia de la asignatura
 
 ::: info <div></div>
 
-Analizar críticamente las corrientes filosóficas y autores de la modernidad, movilizando conocimientos históricos y habilidades de análisis para interpretar las transformaciones del pensamiento filosófico en su contexto y su relevancia en la actualidad.
+Analizar el desarrollo del pensamiento filosófico medieval en sus diversas corrientes, para comprender su impacto en la teología y la historia del pensamiento occidental, con una actitud crítica, reflexiva y argumentativa.
 
 ::: 
 
 ### Desagregación de la competencia
 
-|   #   | **Unidades de Aprendizaje**                                                                       | **Elementos de competencia**                                                                                                                                                                 |
+|   #   | Unidades de Aprendizaje                                                                           | Elementos de competencia                                                                                                                                                                     |
 | :---: | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1** | Preámbulo a la historia y los problemas de la filosofía medieval                                  | Describe conceptos fundamentales asociados al estudio de la filosofía medieval desde el punto de vista histórico y conceptual                                                                |
 | **2** | Los problemas filosóficos de la historia de la filosofía medieval hasta el año 1200               | Construye argumentos filosóficos sobre los problemas de la filosofía medieval, hasta el año 1200, a través de los géneros filosófico-literarios propios de este periodo                      |

@@ -1,4 +1,21 @@
 
+::: info <div></div>
+
+*Lecturas*
+
+&nbsp; &nbsp; 📖 [Lectura de hoy](/1-actual)
+
+&nbsp; &nbsp; 📂 [Lecturas pasadas](2-pasadas.md)
+
+&nbsp; &nbsp; ✏️ [¿Cómo leer?](0-leer.md)
+
+*Información*
+
+&nbsp; &nbsp; 🏹 [Plan de asignatura](3-plan.md)
+
+&nbsp; &nbsp; 🎨 [Iconografía](4-icono.md)
+:::
+
 https://squoosh.app/
 
 <div style="text-align: center;">Texto centrado.</div>

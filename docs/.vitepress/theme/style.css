@@ -174,7 +174,7 @@
 
 /* Aplica tamaño y fuerza el espacio entre líneas en los containers */
 .custom-block p, .custom-block li {
-  font-size: 1.1rem;
+  font-size: 1rem;
   line-height: 1.7 !important; /* Fuerza a las líneas a separarse de forma proporcional */
 }
 
@@ -213,6 +213,7 @@
 }
 
 
+
 .galeria-nativa {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -226,4 +227,73 @@
   object-fit: cover !important;
   border-radius: 7px;
   margin: 0 !important; /* Evita que el margen global de tu CSS deforme la tarjeta */
+}
+
+
+
+
+/* 1. Contenedor principal: Convertido en una tarjeta elegante */
+.vp-doc .menu-academico {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem; /* Da respiro entre las dos columnas en web */
+  justify-content: center;
+  margin: 2rem auto;
+  width: max-content;
+  max-width: 100%;
+  background-color: var(--vp-c-bg-soft); /* Gris muy sutil y nativo de VitePress */
+  padding: 2rem; /* Margen interno amplio y simétrico */
+  border-radius: 12px; /* Bordes más redondeados y modernos */
+  border: 1px solid var(--vp-c-divider); /* Línea sutil que enmarca la tarjeta */
+}
+
+/* 2. Títulos de cada columna */
+.vp-doc .menu-academico h4 {
+  margin: 0 0 1rem 0 !important;
+  font-size: 0.95rem;
+  letter-spacing: 0.5px;
+  color: var(--vp-c-text-1);
+}
+
+/* 3. Botones: Ahora con fondo blanco/negro sólido para resaltar del gris */
+.vp-doc .menu-academico .btn-enlace {
+  display: block;
+  padding: 0.6rem 1.2rem; /* Botones un poco más altos para facilitar el tap */
+  margin-bottom: 0.75rem;
+  background-color: var(--vp-c-bg); /* Fondo sólido (blanco en día, negro en noche) */
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  text-decoration: none !important;
+  color: var(--vp-c-text-1) !important;
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+/* 4. Efecto Hover */
+.vp-doc .menu-academico .btn-enlace:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1) !important;
+  transform: translateX(3px);
+}
+
+/* 5. Ajuste para Móviles (Corregido) */
+@media (max-width: 640px) {
+  .vp-doc .menu-academico {
+    width: 100%; 
+    flex-direction: column;
+    gap: 0.5rem; /* <--- Aumenta o disminuye este número */
+    padding: 1.5rem; /* Recuperamos el espacio vital para que no toque los bordes */
+    box-sizing: border-box; /* Evita que el padding desborde la pantalla */
+  }
+  
+  .vp-doc .menu-academico .columna {
+    width: 100%;
+  }
+  
+  .vp-doc .menu-academico .btn-enlace {
+    width: 100%; 
+    display: flex;
+    align-items: center;
+  }
 }
