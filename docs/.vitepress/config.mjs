@@ -32,19 +32,20 @@ export default defineConfig({
       { text: 'Lectura', 
         items: [
           { text: 'Actual', link: '/1-actual' },
-          { text: 'Pasadas', link: '/2-pasadas' }
+          { text: 'Pasadas', link: '/2-pasadas' },
+          { text: '¿Cómo leer?', link: '/0-leer' },
 		]
 		},
       { text: 'Información', 
         items: [
           { text: 'Plan de asignatura', link: '/3-plan' },
+          { text: 'Iconografía', link: '/4-icono' },
 		]
 		},
     ],
 
     sidebar: [
-      {
-        text: 'Lectura',
+      { text: 'Lectura',
 		collapsed: false, // 'true' inicia cerrado, 'false' inicia abierto con la flecha activa
         items: [
           { text: 'Actual', link: '/1-actual' },
@@ -53,11 +54,11 @@ export default defineConfig({
         ]
       },
 	  
-      {
-        text: 'Información',
+      { text: 'Información',
 		collapsed: false, // 'true' inicia cerrado, 'false' inicia abierto con la flecha activa
         items: [
           { text: 'Plan de asignatura', link: '/3-plan' },
+          { text: 'Iconografía', link: '/4-icono' },
         ]
       },
 	  
@@ -84,6 +85,10 @@ export default defineConfig({
     darkModeSwitchLabel: 'Aspecto',
     lightModeSwitchTitle: 'Cambiar a modo claro',
     darkModeSwitchTitle: 'Cambiar a modo oscuro',
+    
+    vite: { 
+    ssr: { noExternal: ['@cynber/vitepress-valence']} 
+    }, 
 
     socialLinks: [
       {

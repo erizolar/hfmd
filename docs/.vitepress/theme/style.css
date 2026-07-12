@@ -135,15 +135,6 @@
   text-align: justify; /* Opcional: suele lucir mejor combinado con el justificado */
 }
 
-
-/* Centra y dale diseño a todas las imágenes de tus apuntes automáticamente */
-.vp-doc img {
-  display: block;
-  margin: 2rem auto;
-  border-radius: 7px;
-  max-width: 100%;
-}
-
 /* Reduce el espacio vacío superior del contenido */
 .VPDoc {
   padding-top: 10px !important; /* El valor original suele ser 32px o más */
@@ -168,14 +159,6 @@
   width: max-content;
   max-width: 100%;
   margin: 2rem auto !important;
-}
-
-/* Clase para uniformar todos los encabezados de página */
-.encabezado-img {
-  width: 100%;            /* Ocupa todo el ancho disponible */
-  height: 120px;          /* Define una altura fija (ajústala a tu gusto) */
-  object-fit: cover;      /* MAGIA: Recorta y ajusta la imagen sin deformarla */
-  object-position: center; /* Centra el recorte (puedes usar 'top' o 'bottom') */
 }
 
 /* Se aplica a párrafos y también a los elementos de las listas */
@@ -216,3 +199,15 @@
   /* 4. Ajusta el espacio interno para que el texto no pegue de la barra */
   padding: 0.3rem 1rem; 
   margin: 1.5rem 0;
+}
+  
+/* Control total del encabezado empaquetado por Vite */
+.vp-doc .encabezado-img {
+  width: 100% !important;
+  height: 120px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  display: block;
+  margin: 1rem 0 !important;
+  border-radius: 7px !important; /* Recuperas tus bordes redondeados aquí */
+}

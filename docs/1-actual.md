@@ -2,7 +2,8 @@
 outline:
 title: Hoy
 ---
-<img src="./icons/01.png" class="encabezado-img">
+
+<img src="./icons/enca/a.png" class="encabezado-img">
 
 ### 01. Presentación de la asignatura; Diagnóstico
 

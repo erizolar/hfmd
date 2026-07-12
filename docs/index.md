@@ -15,6 +15,7 @@ title: Inicio
 
 &nbsp; 🏹 [Plan de asignatura](3-plan.md)
 
+&nbsp; 🎨 [Iconografía](4-icono.md)
 :::
 
 ---

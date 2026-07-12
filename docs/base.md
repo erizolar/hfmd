@@ -1,4 +1,5 @@
 
+https://squoosh.app/
 
 <div style="text-align: center;">Texto centrado.</div>
 
