@@ -2,9 +2,9 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import './style.css'
-import '@cynber/vitepress-valence/style.css'
-import { data as galleryData } from './gallery.data.js'
-import { VpvImageGallery } from '@cynber/vitepress-valence'
+
+import ImageViewerP from '@davidingplus/vitepress-image-viewer'
+import '@davidingplus/vitepress-image-viewer/style.css'
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -16,7 +16,6 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     // ...
-    app.component('VpvImageGallery', VpvImageGallery) 
-    app.provide('galleryData', galleryData)  
+    ImageViewerP(app)
   }
 }

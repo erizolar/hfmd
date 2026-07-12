@@ -211,3 +211,19 @@
   margin: 1rem 0 !important;
   border-radius: 7px !important; /* Recuperas tus bordes redondeados aquí */
 }
+
+
+.galeria-nativa {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+  margin-top: 1rem;
+}
+
+.galeria-nativa img {
+  width: 100% !important;
+  aspect-ratio: 1 / 1 !important; /* Mantiene los recuadros cuadrados perfectos */
+  object-fit: cover !important;
+  border-radius: 7px;
+  margin: 0 !important; /* Evita que el margen global de tu CSS deforme la tarjeta */
+}

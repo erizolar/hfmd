@@ -85,10 +85,6 @@ export default defineConfig({
     darkModeSwitchLabel: 'Aspecto',
     lightModeSwitchTitle: 'Cambiar a modo claro',
     darkModeSwitchTitle: 'Cambiar a modo oscuro',
-    
-    vite: { 
-    ssr: { noExternal: ['@cynber/vitepress-valence']} 
-    }, 
 
     socialLinks: [
       {

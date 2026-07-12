@@ -9,6 +9,6 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
-    "@cynber/vitepress-valence": "^0.2.2"
+    "@davidingplus/vitepress-image-viewer": "^1.1.5"
   }
 }
