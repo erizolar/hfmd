@@ -1,0 +1,218 @@
+/**
+ * Customize default theme styling by overriding CSS variables:
+ * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+ */
+
+/**
+ * Colors
+ *
+ * Each colors have exact same color scale system with 3 levels of solid
+ * colors with different brightness, and 1 soft color.
+ *
+ * - `XXX-1`: The most solid color used mainly for colored text. It must
+ *   satisfy the contrast ratio against when used on top of `XXX-soft`.
+ *
+ * - `XXX-2`: The color used mainly for hover state of the button.
+ *
+ * - `XXX-3`: The color for solid background, such as bg color of the button.
+ *   It must satisfy the contrast ratio with pure white (#ffffff) text on
+ *   top of it.
+ *
+ * - `XXX-soft`: The color used for subtle background such as custom container
+ *   or badges. It must satisfy the contrast ratio when putting `XXX-1` colors
+ *   on top of it.
+ *
+ *   The soft color must be semi transparent alpha channel. This is crucial
+ *   because it allows adding multiple "soft" colors on top of each other
+ *   to create an accent, such as when having inline code block inside
+ *   custom containers.
+ *
+ * - `default`: The color used purely for subtle indication without any
+ *   special meanings attached to it such as bg color for menu hover state.
+ *
+ * - `brand`: Used for primary brand colors, such as link text, button with
+ *   brand theme, etc.
+ *
+ * - `tip`: Used to indicate useful information. The default theme uses the
+ *   brand color for this by default.
+ *
+ * - `warning`: Used to indicate warning to the users. Used in custom
+ *   container, badges, etc.
+ *
+ * - `danger`: Used to show error, or dangerous message to the users. Used
+ *   in custom container, badges, etc.
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-c-default-1: var(--vp-c-gray-1);
+  --vp-c-default-2: var(--vp-c-gray-2);
+  --vp-c-default-3: var(--vp-c-gray-3);
+  --vp-c-default-soft: var(--vp-c-gray-soft);
+
+  --vp-c-brand-1: var(--vp-c-indigo-1);
+  --vp-c-brand-2: var(--vp-c-indigo-2);
+  --vp-c-brand-3: var(--vp-c-indigo-3);
+  --vp-c-brand-soft: var(--vp-c-indigo-soft);
+
+  --vp-c-tip-1: var(--vp-c-brand-1);
+  --vp-c-tip-2: var(--vp-c-brand-2);
+  --vp-c-tip-3: var(--vp-c-brand-3);
+  --vp-c-tip-soft: var(--vp-c-brand-soft);
+
+  --vp-c-warning-1: var(--vp-c-yellow-1);
+  --vp-c-warning-2: var(--vp-c-yellow-2);
+  --vp-c-warning-3: var(--vp-c-yellow-3);
+  --vp-c-warning-soft: var(--vp-c-yellow-soft);
+
+  --vp-c-danger-1: var(--vp-c-red-1);
+  --vp-c-danger-2: var(--vp-c-red-2);
+  --vp-c-danger-3: var(--vp-c-red-3);
+  --vp-c-danger-soft: var(--vp-c-red-soft);
+}
+
+/**
+ * Component: Button
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: var(--vp-c-white);
+  --vp-button-brand-bg: var(--vp-c-brand-3);
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: var(--vp-c-white);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-active-border: transparent;
+  --vp-button-brand-active-text: var(--vp-c-white);
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+}
+
+/**
+ * Component: Home
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    #bd34fe 30%,
+    #41d1ff
+  );
+
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #bd34fe 50%,
+    #47caff 50%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+
+/**
+ * Component: Custom Block
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-custom-block-tip-border: transparent;
+  --vp-custom-block-tip-text: var(--vp-c-text-1);
+  --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
+  --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
+}
+
+:root {
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  text-align: justify; /* Opcional: suele lucir mejor combinado con el justificado */
+}
+
+
+/* Centra y dale diseño a todas las imágenes de tus apuntes automáticamente */
+.vp-doc img {
+  display: block;
+  margin: 2rem auto;
+  border-radius: 7px;
+  max-width: 100%;
+}
+
+/* Reduce el espacio vacío superior del contenido */
+.VPDoc {
+  padding-top: 10px !important; /* El valor original suele ser 32px o más */
+}
+
+/* Forzar a las tablas a integrarse con el color del contenedor */
+.custom-container table {
+  background-color: transparent !important;
+}
+
+.custom-container tr:nth-child(2n) {
+  background-color: rgba(0, 0, 0, 0.02) !important; /* Fondo sutil intercalado */
+}
+
+.custom-container th, 
+.custom-container td {
+  border: 1px solid var(--vp-c-gutter) !important;
+}
+
+/* Centrar todas las tablas del sitio automáticamente */
+.vp-doc table {
+  width: max-content;
+  max-width: 100%;
+  margin: 2rem auto !important;
+}
+
+/* Clase para uniformar todos los encabezados de página */
+.encabezado-img {
+  width: 100%;            /* Ocupa todo el ancho disponible */
+  height: 120px;          /* Define una altura fija (ajústala a tu gusto) */
+  object-fit: cover;      /* MAGIA: Recorta y ajusta la imagen sin deformarla */
+  object-position: center; /* Centra el recorte (puedes usar 'top' o 'bottom') */
+}
+
+/* Se aplica a párrafos y también a los elementos de las listas */
+.vp-doc p, .vp-doc li {
+  font-size: 1.1rem; /* Mismo tamaño para ambos */
+  line-height: 1.7;   /* Mismo espacio entre líneas */
+}
+
+/* Opcional: añade un pequeño espacio entre cada viñeta para que no se amontonen */
+.vp-doc li {
+  margin-bottom: 0rem;
+}
+
+/* Aplica tamaño y fuerza el espacio entre líneas en los containers */
+.custom-block p, .custom-block li {
+  font-size: 1.1rem;
+  line-height: 1.7 !important; /* Fuerza a las líneas a separarse de forma proporcional */
+}
+
+/* Corrección para títulos de tablas legibles */
+.vp-doc th {
+  color: var(--vp-c-text-1) !important; /* Fuerza el color de texto principal (oscuro/blanco puro) */
+  font-weight: 700 !important;          /* Resalta el título en negrita firme */
+  background-color: var(--vp-c-default-soft); /* Le da un fondo gris suave al encabezado */
+}
+
+/* Personalización de las citas de bloque */
+.vp-doc blockquote {
+  /* 1. Cambia el grosor, estilo y color de la barra izquierda */
+  border-left: 5px solid #D3D3D3 !important;
+  
+  /* 2. Cambia el color del texto (aquí usa el principal, más oscuro/claro) */
+  color: var(--vp-c-text-1) !important;
+  
+  /* 3. Hace el fondo 100% transparente, heredando el fondo de la página */
+  background-color: transparent !important;
+  
+  /* 4. Ajusta el espacio interno para que el texto no pegue de la barra */
+  padding: 0.3rem 1rem; 
+  margin: 1.5rem 0;
