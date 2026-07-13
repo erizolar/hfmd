@@ -4,7 +4,7 @@ title: Inicio
 
 <br>
 <div style="text-align: center; font-style: italic;">"Nadie entra en el cielo sino por la filosofía"</div> 
-
+<div style="text-align: center;">Juan Escoto Erígena, teólogo y filósofo (s. XIX)</div>
 
 <div class="menu-academico">
   <div class="columna">
