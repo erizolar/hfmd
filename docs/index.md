@@ -38,7 +38,7 @@ title: Inicio
 | Agosto |                       Tema                        |                  Lectura                  |
 | :----: | :-----------------------------------------------: | :---------------------------------------: |
 |   03   | Problemas preambulares. ¿Filosofía creyente? (I)  | [ <Badge type="info" text="Pronto" /> ]() |
-|   06   |            ~~Conversatorio inaugural~~            |                     –                     |
+|   06   |              ~~Aniversario patrio~~               |                     –                     |
 |   10   | Problemas preambulares. ¿Filosofía creyente? (II) |                     ↑                     |
 |   13   | Géneros filosóficos de la filosofía medieval (I)  | [ <Badge type="info" text="Pronto" /> ]() |
 |   17   | Géneros filosóficos de la filosofía medieval (II) |                     ↑                     |
