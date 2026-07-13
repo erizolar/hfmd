@@ -2,5 +2,5 @@
 title: Ayer
 outline: deep
 ---
-
-*Aquí irán las lecturas pasadas.*
+<br>
+<div style="text-align: center;">Aquí irán las lecturas pasadas.</div>

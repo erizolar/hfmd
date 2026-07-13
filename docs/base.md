@@ -1,4 +1,8 @@
 
+<span></span>
+
+"Nadie entra en el cielo sino por la filosofía". Juan Escoto Erígena (s. XIX) en *Annotationes in Marcianum* (57, 15).
+
 ::: info <div></div>
 
 *Lecturas*

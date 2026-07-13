@@ -161,10 +161,20 @@
   margin: 2rem auto !important;
 }
 
+/* Control del tamaño de letra e interlineado en las tablas */
+.vp-doc table th,
+.vp-doc table td {
+  font-size: 0.9rem !important; /* Modifica para agrandar/achicar la letra */
+  line-height: 1.6 !important;  /* Modifica para separar/juntar las líneas */
+  padding: 0.6rem 0.8rem !important; /* Ajusta el espacio interno para que el texto respire */
+}
+
+
+
 /* Se aplica a párrafos y también a los elementos de las listas */
 .vp-doc p, .vp-doc li {
-  font-size: 1.1rem; /* Mismo tamaño para ambos */
-  line-height: 1.7;   /* Mismo espacio entre líneas */
+  font-size: 1.15rem; /* Mismo tamaño para ambos */
+  line-height: 1.8;   /* Mismo espacio entre líneas */
 }
 
 /* Opcional: añade un pequeño espacio entre cada viñeta para que no se amontonen */
@@ -174,8 +184,8 @@
 
 /* Aplica tamaño y fuerza el espacio entre líneas en los containers */
 .custom-block p, .custom-block li {
-  font-size: 1rem;
-  line-height: 1.7 !important; /* Fuerza a las líneas a separarse de forma proporcional */
+  font-size: 1.05rem;
+  line-height: 1.6 !important; /* Fuerza a las líneas a separarse de forma proporcional */
 }
 
 /* Corrección para títulos de tablas legibles */
@@ -185,21 +195,24 @@
   background-color: var(--vp-c-default-soft); /* Le da un fondo gris suave al encabezado */
 }
 
-/* Personalización de las citas de bloque */
+
+/* 1. Diseño del contenedor de la cita (Línea lateral y fondo) */
 .vp-doc blockquote {
-  /* 1. Cambia el grosor, estilo y color de la barra izquierda */
   border-left: 5px solid #D3D3D3 !important;
-  
-  /* 2. Cambia el color del texto (aquí usa el principal, más oscuro/claro) */
-  color: var(--vp-c-text-1) !important;
-  
-  /* 3. Hace el fondo 100% transparente, heredando el fondo de la página */
   background-color: transparent !important;
-  
-  /* 4. Ajusta el espacio interno para que el texto no pegue de la barra */
-  padding: 0.3rem 1rem; 
-  margin: 1.5rem 0;
+  padding: 0.3rem 1rem !important;
+  margin: 1.5rem 0 !important;
 }
+
+/* 2. Diseño del texto interno (Color, tamaño e interlineado) */
+.vp-doc blockquote p {
+  color: var(--vp-c-text-1) !important;
+  font-size: 1.05rem !important; 
+  line-height: 1.6 !important;  
+  margin: 0 !important; /* Evita que el párrafo añada espacios ocultos */
+}
+
+  
   
 /* Control total del encabezado empaquetado por Vite */
 .vp-doc .encabezado-img {
@@ -211,6 +224,7 @@
   margin: 1rem 0 !important;
   border-radius: 7px !important; /* Recuperas tus bordes redondeados aquí */
 }
+
 
 
 
