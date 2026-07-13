@@ -173,8 +173,8 @@
 
 /* Se aplica a párrafos y también a los elementos de las listas */
 .vp-doc p, .vp-doc li {
-  font-size: 1.2rem; /* Mismo tamaño para ambos */
-  line-height: 1.75;   /* Mismo espacio entre líneas */
+  font-size: 1.15rem; /* Mismo tamaño para ambos */
+  line-height: 1.7;   /* Mismo espacio entre líneas */
 }
 
 /* Opcional: añade un pequeño espacio entre cada viñeta para que no se amontonen */
