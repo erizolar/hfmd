@@ -28,7 +28,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Principal', link: '/' },
+      { text: 'Inicio', link: '/' },
       { text: 'Lectura', 
         items: [
           { text: 'Actual', link: '/1-actual' },
