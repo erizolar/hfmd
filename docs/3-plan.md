@@ -25,7 +25,7 @@ Analizar el desarrollo del pensamiento filosófico medieval en sus diversas corr
 | :---: | :------------------------------------------------------------- | :------------------------------------------------------------ |
 | **1** | Cuestionario<br>Diario de clases<br><br>R1: Presentación oral  | Lista de cotejo<br><br>Heteroevaluación                       |
 | **2** | Entrevista<br><br>R2: Presentación oral                        | Rúbrica de evaluación<br><br>Heteroevaluación<br>Coevaluación |
-| **3** | Entrevista<br>Discurso filosófico<br><br>R3: Presentación oral | Rúbrica de evaluación                                         |
+| **3** | Entrevista<br>Discurso filosófico<br><br>R3: Presentación oral | Rúbrica de evaluación<br><br>Heteroevaluación<br>Coevaluación |
 | **F** | Perfil de investigación                                        | Lista de cotejo<br><br>Heteroevaluación                       |
 ### Bibliografía
 
