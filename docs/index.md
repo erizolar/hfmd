@@ -26,22 +26,22 @@ title: Inicio
 <br>
 <div style="text-align: center; font-weight: bold;">Unidad de Aprendizaje 1</div>
 
-| Junio |                         Tema                         |                                                          Lectura                                                           |
-| :---: | :--------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-|  13   |      Presentación de la asignatura; Diagnóstico      | [ <Badge type="tip" text="PDF" /> ](https://drive.google.com/file/d/11BQ4dZFcSpQXU694goHsdEMTSpJ5hoSL/view?usp=drive_link) |
-|  16   |             ~~Conversatorio inaugural~~              |                                                             –                                                              |
-|  20   |     Problemas preambulares. *Fides et ratio* (I)     | [ <Badge type="tip" text="PDF" /> ](https://drive.google.com/file/d/1mZ9tEafluXT2qvp0b4fp-WcO2qrfNMNj/view?usp=drive_link) |
-|  23   |    Problemas preambulares. *Fides et ratio* (II)     |                                                             ↑                                                              |
-|  27   | Problemas preambulares. ¿Cómo era ser filósofo? (I)  |                                         [ <Badge type="info" text="Pronto" /> ]()                                          |
-|  30   | Problemas preambulares. ¿Cómo era ser filósofo? (II) |                                                             ↑                                                              |
+| Junio |                                 Tema                                  |                                                            Lectura                                                            |
+| :---: | :-------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|  13   |              Presentación de la asignatura; Diagnóstico               | [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/11BQ4dZFcSpQXU694goHsdEMTSpJ5hoSL/view?usp=drive_link) |
+|  16   |                      ~~Conversatorio inaugural~~                      |                                                               –                                                               |
+|  20   |             Problemas preambulares. *Fides et ratio* (I)              | [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/1mZ9tEafluXT2qvp0b4fp-WcO2qrfNMNj/view?usp=drive_link) |
+|  23   |             Problemas preambulares. *Fides et ratio* (II)             |                                                               ↑                                                               |
+|  27   | Problemas preambulares. ¿Cómo era ser filósofo en la antigüedad? (I)  |                                           [ <Badge type="info" text="Pronto" /> ]()                                           |
+|  30   | Problemas preambulares. ¿Cómo era ser filósofo en la antigüedad? (II) |                                                               ↑                                                               |
 
 | Agosto |                       Tema                        |                  Lectura                  |
 | :----: | :-----------------------------------------------: | :---------------------------------------: |
 |   03   | Problemas preambulares. ¿Filosofía creyente? (I)  | [ <Badge type="info" text="Pronto" /> ]() |
 |   06   |              ~~Aniversario patrio~~               |                     –                     |
 |   10   | Problemas preambulares. ¿Filosofía creyente? (II) |                     ↑                     |
-|   13   | Géneros filosóficos de la filosofía medieval (I)  | [ <Badge type="info" text="Pronto" /> ]() |
-|   17   | Géneros filosóficos de la filosofía medieval (II) |                     ↑                     |
+|   13   | Géneros filosóficos en la filosofía medieval (I)  | [ <Badge type="info" text="Pronto" /> ]() |
+|   17   | Géneros filosóficos en la filosofía medieval (II) |                     ↑                     |
 |   20   |   **Evaluación de la Unidad de Aprendizaje 1**    |                     –                     |
 
 

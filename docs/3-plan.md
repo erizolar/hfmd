@@ -19,6 +19,33 @@ Analizar el desarrollo del pensamiento filosófico medieval en sus diversas corr
 | **2** |        Los problemas filosóficos de la historia de la filosofía medieval hasta el año 1200        |           Construye argumentos filosóficos sobre los problemas de la filosofía medieval, hasta el año 1200, a través de los géneros filosófico-literarios propios de este periodo            |
 | **3** | Los problemas filosóficos de la historia de la filosofía medieval hasta y durante el Renacimiento | Elabora discursos filosóficos sobre los problemas de la filosofía medieval, desde el año 1200 y hasta el Renacimiento, a través de los géneros filosófico-literarios propios de este periodo |
 
+### Planificación del proceso de enseñanza y aprendizaje
+
+| Semana | Unidad de Aprendizaje 1                                          |
+| :----: | ---------------------------------------------------------------- |
+|   1    | Presentación de la asignatura; Diagnóstico                       |
+|   2    | Problemas preambulares: *Fides et ratio*                         |
+|   3    | Problemas preambulares: ¿Cómo era ser filósofo en la antigüedad? |
+|  4-5   | Problemas preambulares: ¿Filosofía creyente?                     |
+|  5-6   | Géneros filosóficos en la filosofía medieval                     |
+|   6    | **Evaluación de la Unidad de Aprendizaje 1**                     |
+
+| Semana | Unidad de Aprendizaje 2                                  |
+| :----: | -------------------------------------------------------- |
+|   7    | Fe y razón en los Padres de la Iglesia                   |
+|   8    | *Ética*. Agustín: mentira y asesinato                    |
+|   9    | *Conocimiento*. Agustín: escepticismo, fe y conocimiento |
+| 10-11  | *Física*. Agustín: sobre el tiempo                       |
+|   12   | *Dios*. Boethius: presciencia divina                     |
+|   13   | **Evaluación de la Unidad de Aprendizaje 2**             |
+
+| Semana | Unidad de Aprendizaje 3                                                                                      |
+| :----: | ------------------------------------------------------------------------------------------------------------ |
+|   14   | *Ética*. Abelardo: sobre la intención                                                                        |
+|   15   | *Conocimiento*. Aquino: fe, conocimiento y ciencia                                                           |
+| 16-17  | *Dios*. Argumentos Islámicos de la existencia de Dios<br>*Dios*. Anselmo. Argumento de la existencia de Dios |
+| 17-18  | **Evaluación de la Unidad de Aprendizaje 3**                                                                 |
+|   18   | Retroalimentación de la asignatura                                                                           |
 ### Sistema de evaluación
 
 |   #   | Técnica                                                        | Instrumento y Evaluación                                      |
