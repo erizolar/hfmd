@@ -48,25 +48,28 @@ Analizar el desarrollo del pensamiento filosófico medieval en sus diversas corr
 |   18   | Retroalimentación de la asignatura                                                                           |
 ### Sistema de evaluación
 
-|   #   | Técnica                                                        | Instrumento y Evaluación                                      |
-| :---: | :------------------------------------------------------------- | :------------------------------------------------------------ |
-| **1** | Cuestionario<br>Diario de clases<br><br>R1: Presentación oral  | Lista de cotejo<br><br>Heteroevaluación                       |
-| **2** | Entrevista<br><br>R2: Presentación oral                        | Rúbrica de evaluación<br><br>Heteroevaluación<br>Coevaluación |
-| **3** | Entrevista<br>Discurso filosófico<br><br>R3: Presentación oral | Rúbrica de evaluación<br><br>Heteroevaluación<br>Coevaluación |
-| **F** | Perfil de investigación                                        | Lista de cotejo<br><br>Heteroevaluación                       |
+|   #   | Técnica                                                                               | Instrumento y Evaluación                                      |
+| :---: | :------------------------------------------------------------------------------------ | :------------------------------------------------------------ |
+| **1** | Cuestionario<br>Diario de clases<br><br>R1: Presentación oral                         | Lista de cotejo<br><br>Heteroevaluación                       |
+| **2** | Entrevista sobre un producto escrito<br><br>R2: Presentación oral                     | Rúbrica de evaluación<br><br>Heteroevaluación<br>Coevaluación |
+| **3** | Entrevista sobre un producto oral<br>Discurso filosófico<br><br>R3: Presentación oral | Rúbrica de evaluación<br><br>Heteroevaluación<br>Coevaluación |
+| **F** | Perfil de investigación                                                               | Lista de cotejo<br><br>Heteroevaluación                       |
 ### Bibliografía
 
-**Obligatoria**
+::: info Obligatoria
 
 1. Gilson, É. (2009). *El espíritu de la filosofía medieval*. Rialp. [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/1-FCsMh1iiA0typqU83N6aXPq15VlRXSx/view?usp=drive_link)
 2. Kenny, A. (2005). *Medieval philosophy*. Clarendon Press. [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/1kOGd1zho6zuMMV9SasrhEiktLlDqHJSS/view?usp=drive_link)
 3. Pasnau, R., y Dyke, C. van (Eds.). (2010). *The Cambridge history of medieval philosophy. Volume 1*. Cambridge University Press. [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/1wd9xH1JJamE4ybF128olSdsYLayHVNAf/view?usp=drive_link)
 4. Pasnau, R., y Dyke, C. van (Eds.). (2010). *The Cambridge history of medieval philosophy. Volume 2*. Cambridge University Press. [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/14mnwsjWMR5zrPrZGv4KvDG0b-FrDHsji/view?usp=drive_link)
+:::
 
-**Complementaria**
+::: info Complementaria
 
 1. Brown, P. (1967). *Biografía de Agustín de Hipona* (S. Tovar y M. R. Tovar, Trads.). Revista de Occidente. [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/1AzmHlE1byNrbCYwqokkMVs-J9DQkhOoE/view?usp=drive_link)
 2. Heers, J. (1995). *La invención de la Edad Media*. Crítica. [ <Badge type="tip" text="PDF ↗︎" /> ]()
 3. Le Goff, J., y Schmitt, J.-C. (Eds.). (2003). *Diccionario razonado del occidente medieval*. Akal. [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/1xb_L1HZwPLguFW843js5q_RK7YujgopV/view?usp=drive_link)
 4. Libera, A. de. (2015). *La cuestión de los universales. De Platón a fines de la Edad Media*. Prometeo. [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/1fcxKwJoJdVgHnnCojuZW3X1kdK004olE/view?usp=drive_link)
 5. Torrell, J.-P. (2002). *Iniciación a Tomás de Aquino. Su persona y su obra*. Ediciones Universidad de Navarra. [ <Badge type="tip" text="PDF ↗︎" /> ](https://drive.google.com/file/d/1ca5tYsseQmjOzu2fnqLdVDzExs3cECHV/view?usp=drive_link)
+   
+:::
