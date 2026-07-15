@@ -36,7 +36,7 @@ Analizar el desarrollo del pensamiento filosófico medieval en sus diversas corr
 |   8    | *Ética*. Agustín: mentira y asesinato                    |
 |   9    | *Conocimiento*. Agustín: escepticismo, fe y conocimiento |
 | 10-11  | *Física*. Agustín: sobre el tiempo                       |
-|   12   | *Dios*. Boethius: presciencia divina                     |
+|   12   | *Dios*. Boecio: presciencia divina                       |
 |   13   | **Evaluación de la Unidad de Aprendizaje 2**             |
 
 | Semana | Unidad de Aprendizaje 3                                                                                      |

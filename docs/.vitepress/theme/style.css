@@ -140,19 +140,8 @@
   padding-top: 10px !important; /* El valor original suele ser 32px o más */
 }
 
-/* Forzar a las tablas a integrarse con el color del contenedor */
-.custom-container table {
-  background-color: transparent !important;
-}
 
-.custom-container tr:nth-child(2n) {
-  background-color: rgba(0, 0, 0, 0.02) !important; /* Fondo sutil intercalado */
-}
 
-.custom-container th, 
-.custom-container td {
-  border: 1px solid var(--vp-c-gutter) !important;
-}
 
 /* Centrar todas las tablas del sitio automáticamente */
 .vp-doc table {
@@ -212,6 +201,7 @@
   margin: 0 !important; /* Evita que el párrafo añada espacios ocultos */
 }
 
+
   
   
 /* Control total del encabezado empaquetado por Vite */
@@ -223,6 +213,15 @@
   display: block;
   margin: 1rem 0 !important;
   border-radius: 7px !important; /* Recuperas tus bordes redondeados aquí */
+}
+
+/* Fuerza el empaquetado del encabezado en celulares y ajusta su proporción */
+@media (max-width: 640px) {
+  .vp-doc img.encabezado-img { 
+    height: 85px !important; /* Se reduce la altura para que luzca panorámico en celular */
+    width: 100% !important;
+    object-fit: cover !important;
+  }
 }
 
 

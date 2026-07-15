@@ -3,7 +3,7 @@ outline:
 title: Hoy
 ---
 
-<img src="./icons/enca/a.jpg" class="encabezado-img">
+<img src="./icons/enca/a.webp" class="encabezado-img">
 
 ### 01. Presentación de la asignatura; Diagnóstico
 
