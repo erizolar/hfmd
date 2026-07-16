@@ -26,7 +26,7 @@ title: Inicio
 <br>
 <div style="text-align: center; font-weight: bold;">Unidad de Aprendizaje 1</div>
 
-| Junio |                                 Tema                                  |                                                          Lectura                                                           |
+| Julio |                                 Tema                                  |                                                          Lectura                                                           |
 | :---: | :-------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
 |  13   |              Presentación de la asignatura; Diagnóstico               | [<Badge type="tip" text="PDF↗︎" />](https://drive.google.com/file/d/11BQ4dZFcSpQXU694goHsdEMTSpJ5hoSL/view?usp=drive_link) |
 |  16   |                      ~~Conversatorio inaugural~~                      |                                                             –                                                              |
