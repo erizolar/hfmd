@@ -16,8 +16,8 @@ title: Inicio
   <div class="columna">
     <h4>Información</h4>
     <a href="./3-plan" class="btn-enlace">🏹 Plan de asignatura</a>
-    <a href="./4-taller" class="btn-enlace">🎨 Iconografía</a>
-    <a href="./5-icono" class="btn-enlace">🛠️ Taller filosófico</a>
+    <a href="./4-taller" class="btn-enlace">🛠️ Taller filosófico</a>
+    <a href="./5-icono" class="btn-enlace">🎨 Iconografía</a>
   </div>
 </div>
 
