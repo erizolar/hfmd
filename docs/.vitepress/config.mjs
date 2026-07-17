@@ -39,7 +39,8 @@ export default defineConfig({
       { text: 'Información', 
         items: [
           { text: 'Plan de asignatura', link: '/3-plan' },
-          { text: 'Iconografía', link: '/4-icono' },
+          { text: 'Taller filosófico', link: '/4-taller' },
+          { text: 'Iconografía', link: '/5-icono' },
 		]
 		},
     ],
@@ -58,7 +59,8 @@ export default defineConfig({
 		collapsed: false, // 'true' inicia cerrado, 'false' inicia abierto con la flecha activa
         items: [
           { text: 'Plan de asignatura', link: '/3-plan' },
-          { text: 'Iconografía', link: '/4-icono' },
+          { text: 'Taller filosófico', link: '/4-taller' },
+          { text: 'Iconografía', link: '/5-icono' },
         ]
       },
 	  
