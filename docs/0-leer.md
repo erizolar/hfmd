@@ -27,6 +27,6 @@ outline: deep
 ::: info **Contemplación (*contemplatio*)**
 *Digerir*
 - ¿Qué conversión de la mente, del corazón y de la vida nos pide la verdad buscada por el texto?
-- La contemplación tiende a crear en nosotros una visión de la realidad
+- La contemplación tiende a crear en nosotros una visión de la realidad.
 - La *lectio* no termina su proceso hasta que no se llega a la acción (*actio*), que mueve la vida del filósofo por la verdad reconocida.
 :::
