@@ -249,7 +249,7 @@
 .vp-doc .menu-academico {
   display: flex;
   flex-wrap: wrap;
-  gap: 2.5rem; /* Da respiro entre las dos columnas en web */
+  gap: 2rem; /* Da respiro entre las dos columnas en web */
   justify-content: center;
   margin: 2rem auto;
   width: max-content;
