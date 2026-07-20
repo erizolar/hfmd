@@ -3,19 +3,8 @@ outline:
 title: Hoy
 ---
 
-<img src="./icons/enca/a.webp" class="encabezado-img">
+<img src="./icons/enca/b.webp" class="encabezado-img">
 
-### 01. Presentación de la asignatura; Diagnóstico
-
-§1. En la provisión humana de obras artísticas hay dos que se nos ofrecen con la pretensión de simbolizar la actividad del pensamiento. Una de ellas es *El pensador*, de Rodin. La otra es *Il pensieroso*, de Miguel Ángel. Examinemos hasta qué punto es justificada la creencia de que esas dos famosas estatuas representan al pensador.
-
-§2. Rememorad *El pensador* de Rodin. El hombre está sentado sobre un bloque de piedra. Tiene las piernas recogidas y los pies sólidamente apoyados sobre la desigualdad de la base. Los músculos de las pantorrillas y de los muslos están en tensión. Sobre la rodilla izquierda reposa el brazo izquierdo, del que pende una mano grande, musculosa, mano desarrollada en el manejo de duras y pesadas herramientas. Sobre el muslo derecho se apoya el codo del brazo derecho y este brazo, recogido, se dobla, terminando en el puño cerrado, sobre el cual pesan la barbilla y la cabeza toda. Las cejas contraídas, los músculos tirantes del cuello y de los hombros, la expresión ceñuda del rostro, el acurrucamiento, por decirlo así, del cuerpo entero, canalizan todos los efluvios del cuerpo hacia la frente y el ángulo que la faz hace con el puño. Todas las líneas en esta escultura son como de recogimiento y concentración, enfocándose en el esfuerzo mental evidente. *El pensador* de Rodin está, en efecto, meditabundo. ¿En qué piensa *El pensador* de Rodin? […].
-
-§3. Mas ya que la estatua de Rodin no sea aceptable como símbolo del pensamiento, ¿podrá serlo por ventura *Il pensieroso* de Miguel Ángel? Esta bellísima estatua expresa – contrariamente a la obra de Rodin– una inmensa paz del cuerpo y del alma, un reposo profundo del organismo entero. Lorenzo de Médicis está sentado, cómodamente descansando, con el codo apoyado en un brazo del asiento y la mano en la barbilla, con la mirada vaga, perdida en una melancolía mesurada, sin exceso ni afectación. ¿En qué piensa *Il pensieroso*? Es indudable que su espíritu no se halla esforzadamente concentrado en la inquisición de un problema inminente, como el hombre de Rodin. Por este lado no hay peligro de que *Il pensieroso* nos extravíe en las regiones de la inteligencia activa. Pero en realidad tampoco puede decirse que Lorenzo de Médicis esté pensando. Esa mirada vaga no se posa en ningún objeto, ni externo, ni interno. Esa mirada vaga, laxa y como desasida, contempla en íntimo arrobamiento los cambiantes del mundo interior, abandonado sin freno a sus propias leyes de asociación espontánea. Lorenzo de Médicis no es el pensador, sino el pensativo. Ha abierto de par en par las esclusas de su conciencia y por ella van sucediéndose en encantador tropel los recuerdos, las ilusiones, los deseos, los amores, las penas, toda la fauna brillante de la selva del alma. Si pudiéramos requerirle para que hablara y nos dijera en qué está pensando, contestaría con la veracidad ingenua del soñador: «que no está pensando en nada». Y es lo cierto que el que ensueña no piensa en nada y que tan pronto como, sorprendido y despierto por el requerimiento ajeno, se apresta a describir el espectáculo inefable de sus íntimas visiones, halla que esas visiones han desaparecido, volatilizadas por cualquier esfuerzo mínimo de precisión y sustituidas al punto por algún objeto concreto, material o mental. *Il pensieroso* o, mejor dicho, el pensativo de Miguel Ángel tampoco puede servirnos como símbolo o representación plástica del pensamiento. El pensamiento no debe confundirse ni con la inteligencia, preludio de la acción, ni con el ensimismamiento del ensueño. El pensamiento es incomparablemente más concreto que ese indeciso vagar del alma por los ámbitos de sí misma. Y por otra parte es también incomparablemente más libre que la constricción muscular y orgánica de una mente ahincada en el esfuerzo de apartar un obstáculo a la vida.
-
-§4. Pero entonces, ¿qué es el pensamiento? ¿Cómo simbolizarlo plásticamente? [...]
-
----
 ### 02.  Problemas preambulares. *Fides et ratiο*
 
 §1. La fe y la razón (_Fides et ratio_) son como las dos alas con las cuales el espíritu humano se eleva hacia la contemplación de la verdad. Dios ha puesto en el corazón del hombre el deseo de conocer la verdad y, en definitiva, de conocerle a Él para que, conociéndolo y amándolo, pueda alcanzar también la plena verdad sobre sí mismo (cf. _Ex_ 33, 18; _Sal_ 27 [26], 8-9; 63 [62], 2-3; _Jn_ 14, 8; 1 _Jn_ 3, 2). [...]
@@ -46,7 +35,6 @@ title: Hoy
 
 ::: info Referencias
 
-1. García Morente, M. (2012). _Símbolos del pensador. Filosofía y pedagogía_. Encuentro.
-2. Juan Pablo II. (14 de septiembre de 1998). *Fides et ratio* [Carta encíclica]. La Santa Sede.
+1. Juan Pablo II. (14 de septiembre de 1998). *Fides et ratio* [Carta encíclica]. La Santa Sede.
 
 :::
