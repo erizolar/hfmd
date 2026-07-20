@@ -19,6 +19,10 @@ title: Inicio
     <a href="./4-taller" class="btn-enlace">🛠️ Taller filosófico</a>
     <a href="./5-icono" class="btn-enlace">🎨 Iconografía</a>
   </div>
+  <div class="columna">
+    <h4>Evaluación</h4>
+    <a href="./6-ua1" class="btn-enlace">📍 UA1</a>
+  </div>
 </div>
 
 ---

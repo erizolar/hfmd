@@ -43,6 +43,11 @@ export default defineConfig({
           { text: 'Iconografía', link: '/5-icono' },
 		]
 		},
+      { text: 'Evaluación', 
+        items: [
+          { text: 'UA1', link: '/6-ua1' },
+		]
+		},
     ],
 
     sidebar: [
@@ -63,7 +68,12 @@ export default defineConfig({
           { text: 'Iconografía', link: '/5-icono' },
         ]
       },
-	  
+      { text: 'Evaluación', 
+		collapsed: false, // 'true' inicia cerrado, 'false' inicia abierto con la flecha activa
+        items: [
+          { text: 'UA1', link: '/6-ua1' },
+		]
+		},	  
     ],
 
 	outline: {
