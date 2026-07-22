@@ -7,7 +7,7 @@ outline: deep
 
 ::: details Objeto material y formal
 
-Llámase *objeto material* a aquello sobre lo cual recae una actividad cualquiera, prescindiendo del modo como lo hace. Advirtamos de paso que material no significa aquí corpóreo, no se opone a espitual, sino sólo a formal. El objeto material puede ser tanto una realidad corpórea como espiritual.
+Llámase *objeto material* a aquello sobre lo cual recae una actividad cualquiera, prescindiendo del modo como lo hace. Advirtamos de paso que material no significa aquí corpóreo, no se opone a espiritual, sino sólo a formal. El objeto material puede ser tanto una realidad corpórea como espiritual.
 
 Así, una mesa es el objeto material de los sentidos —y dentro de éstos, de la vista, del oído, del tacto, del gusto y del olfato— y a la vez de la inteligencia y de la voluntad. La inmortalidad del alma humana es objeto material a la vez de la filosofía y de la teología.
 
