@@ -31,7 +31,7 @@ title: Inicio
 <br>
 <div style="text-align: center; font-weight: bold;">Unidad de Aprendizaje 1</div>
 
-| Julio |                                 Tema                                  |                                                           Lectura                                                            |
+| Julio |                                 Tema                                  |                                                      Descargar lectura                                                       |
 | :---: | :-------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 |  13   |              Presentación de la asignatura; Diagnóstico               |  [<Badge type="tip" text="PDF↗︎" />](https://drive.google.com/file/d/11BQ4dZFcSpQXU694goHsdEMTSpJ5hoSL/view?usp=drive_link)  |
 |  16   |                      ~~Conversatorio inaugural~~                      |                                                              –                                                               |
@@ -40,7 +40,7 @@ title: Inicio
 |  27   | Problemas preambulares. ¿Cómo era ser filósofo en la antigüedad? (I)  | [ <Badge type="tip" text="PDF↗︎" /> ](https://drive.google.com/file/d/1_hL5w067W_40b1jTQqhjl0bJn9SlQWGT/view?usp=drive_link) |
 |  30   | Problemas preambulares. ¿Cómo era ser filósofo en la antigüedad? (II) |                                                              ↑                                                               |
 
-| Agosto |                       Tema                        |                  Lectura                  |
+| Agosto |                       Tema                        |             Descargar lectura             |
 | :----: | :-----------------------------------------------: | :---------------------------------------: |
 |   03   | Problemas preambulares. ¿Filosofía creyente? (I)  | [ <Badge type="info" text="Pronto" /> ]() |
 |   06   |              ~~Aniversario patrio~~               |                     –                     |
