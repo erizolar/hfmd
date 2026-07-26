@@ -36,10 +36,8 @@ interesarle el primer contacto con esta disciplina decida presentar exámenes en
 
 §13. Los escépticos desarrollan además una argumentación para demostrar que es necesario suspender su juicio, negar su adhesión a todo dogma y encontrar así la tranquilidad del alma. Los cínicos, por su parte, no argumentan ni imparten enseñanza alguna. Es su propia vida la que tiene, por sí misma, su sentido e implica toda una doctrina.
 
-Hadot, P. (1998). _¿Qué es la filosofía antigua?_ Fondo de Cultura Económica. 
-
 ::: info Referencias
 
-1. Juan Pablo II. (14 de septiembre de 1998). *Fides et ratio* [Carta encíclica]. La Santa Sede.
+Hadot, P. (1998). _¿Qué es la filosofía antigua?_ Fondo de Cultura Económica. 
 
 :::
