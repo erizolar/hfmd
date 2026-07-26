@@ -3,7 +3,7 @@ outline:
 title: Hoy
 ---
 
-<img src="./icons/enca/b.webp" class="encabezado-img">
+<img src="./icons/enca/c.webp" class="encabezado-img">
 
 ### 03. Problemas preambulares. ¿Cómo era ser filósofo en la antigüedad?
 
