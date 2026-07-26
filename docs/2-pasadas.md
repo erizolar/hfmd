@@ -3,6 +3,7 @@ title: Ayer
 outline: deep
 ---
 <br>
+
 ### 01. Presentación de la asignatura; Diagnóstico
 
 §1. En la provisión humana de obras artísticas hay dos que se nos ofrecen con la pretensión de simbolizar la actividad del pensamiento. Una de ellas es *El pensador*, de Rodin. La otra es *Il pensieroso*, de Miguel Ángel. Examinemos hasta qué punto es justificada la creencia de que esas dos famosas estatuas representan al pensador.
