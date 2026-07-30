@@ -40,14 +40,14 @@ title: Inicio
 |  27   | Problemas preambulares. ¿Cómo era ser filósofo en la antigüedad? (I)  | [ <Badge type="tip" text="PDF↗︎" /> ](https://drive.google.com/file/d/1_hL5w067W_40b1jTQqhjl0bJn9SlQWGT/view?usp=drive_link) |
 |  30   | Problemas preambulares. ¿Cómo era ser filósofo en la antigüedad? (II) |                                                              ↑                                                               |
 
-| Agosto |                       Tema                        |             Descargar lectura             |
-| :----: | :-----------------------------------------------: | :---------------------------------------: |
-|   03   | Problemas preambulares. ¿Filosofía creyente? (I)  | [ <Badge type="info" text="Pronto" /> ]() |
-|   06   |              ~~Aniversario patrio~~               |                     –                     |
-|   10   | Problemas preambulares. ¿Filosofía creyente? (II) |                     ↑                     |
-|   13   | Géneros filosóficos en la filosofía medieval (I)  | [ <Badge type="info" text="Pronto" /> ]() |
-|   17   | Géneros filosóficos en la filosofía medieval (II) |                     ↑                     |
-|   20   |   **Evaluación de la Unidad de Aprendizaje 1**    |                     –                     |
+| Agosto |                       Tema                        |                                                       Descargar lectura                                                       |
+| :----: | :-----------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------: |
+|   03   | Problemas preambulares. ¿Filosofía creyente? (I)  | [ <Badge type="tip" text="Pronto" /> ](https://drive.google.com/file/d/16JY0zeJEhQtaZJexIhutoZVkbdMhaV7i/view?usp=drive_link) |
+|   06   |              ~~Aniversario patrio~~               |                                                               –                                                               |
+|   10   | Problemas preambulares. ¿Filosofía creyente? (II) |                                                               ↑                                                               |
+|   13   | Géneros filosóficos en la filosofía medieval (I)  |                                           [ <Badge type="info" text="Pronto" /> ]()                                           |
+|   17   | Géneros filosóficos en la filosofía medieval (II) |                                                               ↑                                                               |
+|   20   |   **Evaluación de la Unidad de Aprendizaje 1**    |                                                               –                                                               |
 
 
 

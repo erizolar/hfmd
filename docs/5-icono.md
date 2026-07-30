@@ -10,5 +10,7 @@ outline: deep
   <img src="./icons/ua1/03.webp">
   <img src="./icons/ua1/04.webp">
   <img src="./icons/ua1/05.webp">
+  <img src="./icons/ua1/06.webp">
+  <img src="./icons/ua1/07.webp">
 </div>
 
