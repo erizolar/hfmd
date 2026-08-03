@@ -20,13 +20,20 @@ title: Hoy
 §5. Si se admite esta interpretación, y parece bien inserta en el propio texto, claro aparece que, resuelto en su principio, el problema de la filosofía cristiana queda enteramente abierto en cuanto a las consecuencias que de ello se derivan. Lo que San Pablo llegó a afirmar, y que nadie había de discutir jamás en el interior del Cristianismo, es que poseer la fe en Jesucristo, es con mayor razón poseer la sabiduría, por lo menos en el sentido de que, desde el punto de vista de la salvación, la fe nos dispensa real y totalmente de la filosofía. Aun pudiéramos decir que San Pablo define una posición cuya antítesis exacta será formulada en el 136º Proverbio de Goethe: 
 
 *Wer Wissenschaft und Kunst besitzt*
+
 *Hat auch Religion*;
+
 *Wer jene beide nicht besitzt*
+
 *Der habe Religion* 
 
+
 [Quien posee ciencia y arte
+
 tiene también religión; 
+
 quien no posee ambas, 
+
 que tenga religión].
 
 §6. Aquí, lo cierto es exactamente lo contrario, pues quien posee la religión posee también, en su verdad esencial, la ciencia, el arte y la filosofía, disciplinas estimables, pero que no pueden servir más que de menguado consuelo a quien no posee la religión. Sólo que, si es cierto que poseer la religión es tener todo lo demás, hay que demostrarlo. Un apóstol como San Pablo puede conformarse con predicarlo; un filósofo querrá asegurarse de ello. No basta con decir que el creyente puede pasar sin filosofía porque todo el contenido de la filosofía, y aun más, está implícitamente dado en su creencia: es necesario presentar la prueba de ello. Ahora bien: probarlo es seguramente cierto modo de suprimir la filosofía; pero, si la empresa tiene éxito, puede decirse que en otro sentido es quizá la mejor manera de filosofar. ¿Qué ventajas filosóficas hallaban, pues, en convertirse los más antiguos testigos que se convirtieron al cristianismo?
